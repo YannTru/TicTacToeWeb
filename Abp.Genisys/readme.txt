@@ -1,0 +1,2 @@
+﻿This project contains extensions for the Asp.Net Boilerplate external library, developped by Genisys.
+One example is a Logging attribute that can be placed on an application service method, which will log its input and result.

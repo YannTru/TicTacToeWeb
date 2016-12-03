@@ -22,11 +22,6 @@
                     url: '/',
                     templateUrl: '/App/Main/views/home/home.cshtml',
                     menu: 'Home' //Matches to name of 'Home' menu in TicTacToeWebNavigationProvider
-                })
-                .state('about', {
-                    url: '/about',
-                    templateUrl: '/App/Main/views/about/about.cshtml',
-                    menu: 'About' //Matches to name of 'About' menu in TicTacToeWebNavigationProvider
                 });
         }
     ]);

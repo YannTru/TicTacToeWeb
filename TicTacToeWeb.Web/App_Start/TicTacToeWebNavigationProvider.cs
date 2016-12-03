@@ -21,13 +21,6 @@ namespace TicTacToeWeb.Web
                         url: "#/",
                         icon: "fa fa-home"
                         )
-                ).AddItem(
-                    new MenuItemDefinition(
-                        "About",
-                        new LocalizableString("About", TicTacToeWebConsts.LocalizationSourceName),
-                        url: "#/about",
-                        icon: "fa fa-info"
-                        )
                 );
         }
     }
